@@ -1,0 +1,13 @@
+[package]
+name = "wallet-gen"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+clap = { version = "4.1", features = ["derive"] }
+hex = "0.4"
+rayon = "1.7"
+secp256k1 = "0.24"
+tiny-keccak = { version = "2.0", features = ["keccak"] }
+num_cpus = "1.16"
+rand = "0.8"
