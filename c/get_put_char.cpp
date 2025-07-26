@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-void main() {
+int main() {
     printf("input a character: ");
     char c = getchar();
 

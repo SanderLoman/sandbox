@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <string>
 
-void main() {
+int main() {
     int c;
 
     while ((c = getchar()) != EOF) {

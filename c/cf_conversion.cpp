@@ -4,7 +4,7 @@
 #define UPPER 300
 #define STEP 20
 
-void main() {
+int main() {
     bool when = true;
 
     constexpr unsigned int lower = LOWER;
