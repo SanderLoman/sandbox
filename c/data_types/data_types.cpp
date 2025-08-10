@@ -17,7 +17,7 @@ int main(void) {
     // C Fundamental Type Sizes on Common Platforms
     // ---------------------------------------------
     //
-    // Type               | Win 32-bit (ILP32) | Win 64-bit (LLP64) | Linux/macOS 32-bit (ILP32) | Linux/macOS 64-bit (LP64)
+    // Type                | Win 32-bit (ILP32) | Win 64-bit (LLP64) | Linux/macOS 32-bit (ILP32) | Linux/macOS 64-bit (LP64)
     // -----------------------------------------------------------------------------------------------------------------------
     // char                | 1                  | 1                  | 1                          | 1
     // signed char         | 1                  | 1                  | 1                          | 1
