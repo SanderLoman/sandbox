@@ -82,10 +82,8 @@
 
 
 #include <stdio.h>
-#include <cstdbool>
 #include <stdbool.h>
 #include <stdint.h>
-#include <cstdint>
 
 int main(void) {
     // char type
